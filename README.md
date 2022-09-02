@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KehindeFrancis
-- 👀 DATA ANALYSIS 
+- 👀 DATA ANALYSTS 
 - 🌱  POWER BI, SQL,Python,AWS
-- 💞️ Python Codes, AWS, Power BI 
+- 💞️ Python Codes, Power BI,Tableau
 - 📫 How to reach me franciskehinde00@gmail.com
 
 <!---
