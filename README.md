@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KehindeFrancis
-- 👀 I’m interested in DATA ANALYSIS 
-- 🌱 I’m currently learning POWER BI, SQL,Python,AWS
-- 💞️ I’m looking to collaborate on Python Codes, AWS, Power BI 
+- 👀 DATA ANALYSIS 
+- 🌱  POWER BI, SQL,Python,AWS
+- 💞️ Python Codes, AWS, Power BI 
 - 📫 How to reach me franciskehinde00@gmail.com
 
 <!---
