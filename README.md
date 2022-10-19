@@ -2,7 +2,7 @@
 - 👀 DATA ANALYSTS 
 - 🌱  POWER BI, SQL,Python,AWS
 - 💞️ Python Codes, Power BI,Tableau
-- 📫 How to reach me franciskehinde00@gmail.com
+- 📫 How to reach me kehinde.analyst@gmail.com
 
 <!---
 KehindeFrancis/KehindeFrancis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
